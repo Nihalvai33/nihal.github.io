@@ -1,2 +1,2 @@
-# azmainur-rahman.github.io
+# nihal.github.io
 My Personal Portfolio Website
